@@ -1,1 +1,4 @@
-# Sunida-Riensakunudee-630615043
+# Get started
+
+- `npm install`
+- `npm run dev`
